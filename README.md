@@ -6,7 +6,7 @@ A dark theme for [Obsidian](https://obsidian.md).
 
 ## Installation
 1. `wget https://raw.githubusercontent.com/SAGAtheme/Obsidian/master/SAGA.css` </br>
-2. Move the css file into your vault's .obsidian/themes/ folder and enable it in Obsidian. 
+2. Move the css file into your vault's ```.obsidian/themes/``` folder and enable it in Obsidian. 
 
 
 ## Notes
